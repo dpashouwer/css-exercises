@@ -1,0 +1,14 @@
+.blkButton, 
+.yelButton {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.blkButton {
+    background-color: black;
+    color: white;
+}
+
+.yelButton {
+    background-color: yellow;
+}
